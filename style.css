@@ -59,6 +59,7 @@ button {
 .header2 {
     display: flex;
     gap: 30px;
+    padding: 100px 0px 70px 0px;
 }
 
 .header2 h1 {
